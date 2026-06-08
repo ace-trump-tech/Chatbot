@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <!-- Gradient background -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="400" fill="url(#bgGrad)"/>
+  
+  <!-- Main title -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#fff">
+    摆烂仙君
+  </text>
+  
+  <!-- English subtitle -->
+  <text x="100" y="200" font-family="Arial, sans-serif" font-size="48" fill="#e0f2e0">
+    ace-trump-tech
+  </text>
+  
+  <!-- Tagline -->
+  <text x="100" y="270" font-family="Arial, sans-serif" font-size="32" fill="#b3e5b3">
+    Multi-Platform AI Chatbot Framework
+  </text>
+  
+  <!-- Badge -->
+  <rect x="100" y="310" width="200" height="60" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="200" y="348" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#2E7D32">
+    Open Source
+  </text>
+</svg>
